@@ -1,0 +1,26 @@
+HALLAZGOS Y CONCLUSIONES - AUTOMATIZACIÓN DEMOBLAZE
+
+1. RESULTADO DE LA PRUEBA:
+   ✅ La automatización completó exitosamente el flujo de compra de 3 productos
+   ✅ Se verificó correctamente el mensaje de confirmación "Thank you for your purchase!"
+
+2. HALLAZGOS TÉCNICOS:
+   - La página Demoblaze responde adecuadamente a las interacciones automatizadas
+   - Los tiempos de carga son aceptables para la automatización
+   - Los elementos de la página son estables y consistentes
+
+3. ASPECTOS POSITIVOS:
+   - Proceso de compra sencillo se escogio el primer producto de todas la secciones
+   - Selectores de elementos consistentes y bien definidos
+   - Mensajes de confirmación claros y verificables
+
+
+4. CONCLUSIONES FINALES:
+   La automatización demostró que el flujo de compra de Demoblaze funciona correctamente
+   y es susceptible de ser automatizado de manera estable y confiable.
+
+   El ejercicio comprobó que es posible simular un usuario real realizando una compra
+   completa sin intervención manual.
+
+Fecha de ejecución: 28/08/2025
+Estado: EXITOSO
