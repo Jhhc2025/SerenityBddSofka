@@ -54,7 +54,7 @@ Característica: Pruebas de compra en la pagina Demoblaze
 
 ### Instalación
 # Clonar el repositorio
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/Jhhc2025/SerenityBddSofka.git
 
 # Instalar dependencias
 mvn clean install
