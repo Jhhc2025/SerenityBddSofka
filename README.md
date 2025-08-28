@@ -34,3 +34,38 @@ Característica: Pruebas de compra en la pagina Demoblaze
     Ejemplos:
       | Name                   | Country  | City   | CreditCard          | Month  | Year |
       | Jorge Humberto Huertas | Colombia | Bogota | 7546 9863 9521 7896 | Agosto | 2025 |
+   ```
+
+## 🔧 Tecnologías Utilizadas
+
+- **Serenity BDD**: Framework para reportes y gestión de pruebas
+- **Cucumber**: Lenguaje Gherkin para definición de escenarios
+- **Selenium WebDriver**: Automatización de navegadores
+- **Maven**: Gestión de dependencias y construcción
+- **Java 11+**: Lenguaje de programación
+- **JUnit**: Motor de ejecución de pruebas
+
+## 🚀 Configuración del Entorno
+
+### Prerrequisitos
+- ✅ JDK 11 o superior
+- ✅ Maven 3.6+
+- ✅ IDE recomendado: IntelliJ IDEA o Eclipse
+
+### Instalación
+# Clonar el repositorio
+git clone <URL_DEL_REPOSITORIO>
+
+# Instalar dependencias
+mvn clean install
+
+
+## 📊 Reportes de Serenity
+
+Los reportes se generan automáticamente después de la ejecución en: target/site/serenity/index.html
+
+## 📞 Contacto
+
+**Nombre:** Jorge Humberto Huertas  
+**Email:** jhuertas@example.com  
+**Proyecto:** Repositorio en GitHub
